@@ -3,4 +3,4 @@ pandas
 matplotlib
 plotly
 streamlit_authenticator
-sklearn.linear_model
+LinearRegression
